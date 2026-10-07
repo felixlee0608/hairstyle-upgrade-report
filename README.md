@@ -22,7 +22,7 @@
 ### 方式一：一键安装脚本（macOS / Linux）
 
 ```bash
-curl -fsSL <你的仓库地址>/raw/main/install.sh | bash
+curl -fsSL https://github.com/felixlee0608/hairstyle-upgrade-report/raw/main/install.sh | bash
 ```
 
 或下载后本地执行：
